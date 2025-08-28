@@ -34,5 +34,6 @@ Construir um repositório público no GitHub, onde o arquivo README.md apresente
 * Um responsável pelo grupo deve enviar o link do repositório através do sistema de entrega de trabalhos.
 * Somente commits e merges realizados até o prazo final serão considerados.
 
-
-- Tandara Sartore 566455
+Nomes dos integrantes :
+-Denise Shamira Chuquimia RM 563714
+- Tandara Sartore RM 566455
