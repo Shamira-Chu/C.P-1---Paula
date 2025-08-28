@@ -35,5 +35,5 @@ Construir um repositório público no GitHub, onde o arquivo README.md apresente
 * Somente commits e merges realizados até o prazo final serão considerados.
 
 Nomes dos integrantes :
--Denise Shamira Chuquimia RM 563714
+- Denise Shamira Chuquimia RM 563714
 - Tandara Sartore RM 566455
